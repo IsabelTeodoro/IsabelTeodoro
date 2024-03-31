@@ -6,7 +6,12 @@ Sou estudante de Análise e Desenvolvimento de Sistemas<br>Estou a procura de tr
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@bels.teodoro) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/isabel-teodoro-4725a0266) 
 
 # 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![image](https://github.com/IsabelTeodoro/IsabelTeodoro/assets/139363382/98952bb0-6f3b-419f-b608-4a8ea4a7feee) ![image](https://github.com/IsabelTeodoro/IsabelTeodoro/assets/139363382/38605360-f21d-4a26-ac93-6ec2de55de65) ![image](https://github.com/IsabelTeodoro/IsabelTeodoro/assets/139363382/8de99795-2271-47ba-860f-0769f45a5326) ![image](https://github.com/IsabelTeodoro/IsabelTeodoro/assets/139363382/aa777c8a-f2d8-4238-87e3-e92888061fa5) ![image](https://github.com/IsabelTeodoro/IsabelTeodoro/assets/139363382/408d490f-d988-4add-a8ff-ccd566e945ec)
+
+
+
+
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=IsabelTeodoro&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=IsabelTeodoro&theme=dracula&hide_border=false)<br/>
