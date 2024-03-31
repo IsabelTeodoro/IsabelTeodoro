@@ -1,5 +1,5 @@
 # 💫 About Me:
-Sou estudante de Análise e Desenvolvimento de Sistemas<br>Estou a procura de trabalho na Área de Tecnologia, atualmente trabalho <br>na parte financeira da prefeitura da minha cidade;<br>As linguagens que estou estudando é C/C++ (sendo a mais avançada)<br>e Python (iniciante no momento)<br>Tenho  experiencia em pacote office e Sistema contábil publico;<br>A melhor área que me chama atenção e a construção de projetos e suas documentações.<br> 
+Sou estudante de Análise e Desenvolvimento de Sistemas<br>Estou a procura de trabalho na Área de Tecnologia, atualmente trabalho <br>na parte financeira da prefeitura da minha cidade;<br>As linguagens que estou estudando é C/C++ (sendo a mais avançada)<br>e HTML/CSS (intermediario), tambem estou estudando JAVA<br>Tenho  experiencia em pacote office e Sistema contábil publico;<br>A melhor área que me chama atenção e a construção de projetos e suas documentações e a parte de front-end.<br> 
 
 
 ## 🌐 Socials:
