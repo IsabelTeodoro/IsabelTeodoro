@@ -1,5 +1,5 @@
 # 💫 About Me:
-✈️​​​​​🏆​​​​​​💎​Estou no 6° semestre de Análise e Desenvolvimento de Sistemas;
+✈️​​​​​🏆​​​​​​💎​Formada em Análise e Desenvolvimento de Sistemas;
 Sou dedicada, e sempre dou meu melhor;
 Estou à disposição para qualquer oportunidade na minha área de estudo;
 Aprendo rápido as funções destinadas a mim, sou curiosa e sempre procuro a melhor solução para um problema ou tarefas extensas;
