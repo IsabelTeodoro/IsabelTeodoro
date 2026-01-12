@@ -1,21 +1,13 @@
 # 💫 About Me:
-✈️​​​​​🏆​​​​​​💎​Formada em Análise e Desenvolvimento de Sistemas;
-Sou dedicada, e sempre dou meu melhor;
-Estou à disposição para qualquer oportunidade na minha área de estudo;
-Aprendo rápido as funções destinadas a mim, sou curiosa e sempre procuro a melhor solução para um problema ou tarefas extensas;
-Sou organizada, simpática e não tenho medo de obter novas experiências profissionais.
+🎓 Formada em Análise e Desenvolvimento de Sistemas pela FATEC Ourinhos, sou uma profissional dedicada, curiosa e comprometida em sempre evoluir na área de tecnologia. Aprendo rápido, gosto de desafios e busco sempre a melhor solução para problemas e tarefas complexas.
 
-​​​​💬​Inglês Básico ( Por enquanto);
+💻 Meu foco principal é Desenvolvimento Web e Front-end, com ênfase em HTML e CSS | JavaScript | React | TypeScript, criando interfaces funcionais, organizadas e com boa experiência para o usuário.
 
- ✔️​Curso de IP de Programação Fatec Ourinhos, encontro de Egressos;
+📚 Possuo conhecimentos em Banco de Dados (MySQL), Java, C/C++, Gestão de Projetos, Análise de Sistemas e de Dados, além de certificação em Introduction to Cybersecurity (Cisco).
 
-​🌐​Curso Introducion to Cybersecurity - CISCO
-​✅​Curso de Pacote Office - 8hs;
-​​​📕​Básico em C/C++;
-​​​📖​Iniciante em Banco de Dados - Curso 40h MySQL;
-​♨️​Básico em Java e Java Script;
- ​​💻​​Foco principal em programação Web e Front-end;
-​​​​📚​Boa em Gestão de Projetos, Análise de dados e Sistema. 
+🌍 Inglês básico (em desenvolvimento). Sou organizada, comunicativa, simpática e aberta a novas experiências profissionais, sempre buscando aprendizado contínuo.
+
+🚀 Estou à disposição para oportunidades na área de tecnologia, especialmente em desenvolvimento Front-end, onde possa crescer, contribuir e evoluir junto com a equipe.
 
 
 ## 🌐 Socials:
