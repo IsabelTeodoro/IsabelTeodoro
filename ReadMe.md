@@ -14,7 +14,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@bels.teodoro) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/isabel-teodoro-4725a0266) 
 
 # 💻 Tech Stack:
-![image](https://github.com/IsabelTeodoro/IsabelTeodoro/assets/139363382/98952bb0-6f3b-419f-b608-4a8ea4a7feee) ![image](https://github.com/IsabelTeodoro/IsabelTeodoro/assets/139363382/38605360-f21d-4a26-ac93-6ec2de55de65) ![image](https://github.com/IsabelTeodoro/IsabelTeodoro/assets/139363382/8de99795-2271-47ba-860f-0769f45a5326) ![image](https://github.com/IsabelTeodoro/IsabelTeodoro/assets/139363382/aa777c8a-f2d8-4238-87e3-e92888061fa5) ![image](https://github.com/IsabelTeodoro/IsabelTeodoro/assets/139363382/408d490f-d988-4add-a8ff-ccd566e945ec)
+ ![image](https://github.com/IsabelTeodoro/IsabelTeodoro/assets/139363382/38605360-f21d-4a26-ac93-6ec2de55de65) ![image](https://github.com/IsabelTeodoro/IsabelTeodoro/assets/139363382/8de99795-2271-47ba-860f-0769f45a5326)  ![image](https://github.com/IsabelTeodoro/IsabelTeodoro/assets/139363382/408d490f-d988-4add-a8ff-ccd566e945ec)
 
 
 
